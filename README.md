@@ -12,3 +12,5 @@ These examples are great but I would also like to use this project to experiment
  - Creating a web page where I can keep track of when my plants were last watered, and then using a pump, automatically water each plant every so often.
 
 Eventually, I could host some of these services on a public server (AWS, etc) and have these services be public instead of local.
+
+![image](https://user-images.githubusercontent.com/56747050/141203742-ddb7a8c0-556e-4ccb-b246-37a57602716e.png)
