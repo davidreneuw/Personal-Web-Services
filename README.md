@@ -11,4 +11,4 @@ These examples are great but I would also like to use this project to experiment
  - Attach a display to the Raspberry Pi to display gifs or videos (possibly with audio) using an online form.
  - Creating a web page where I can keep track of when my plants were last watered, and then using a pump, automatically water each plant every so often.
 
-
+Eventually, I could host some of these services on a public server (AWS, etc) and have these services be public instead of local.
